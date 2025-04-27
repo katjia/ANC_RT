@@ -1,10 +1,14 @@
 # History files
 .Rhistory
 .Rapp.history
+.DS_Store
 
 # Session Data files
 .RData
 .RDataTmp
+
+# Data
+/1_data/lso_survey_hiv_indicators.csv
 
 # User-specific files
 .Ruserdata
